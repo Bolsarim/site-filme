@@ -1,0 +1,46 @@
+.margi{
+    padding: 10px;
+    background-color: black;
+}
+
+.margi h1{
+    color: rgb(255, 254, 254);
+}
+
+
+button{
+
+font-size: 30px;
+margin-top: 30px;
+margin-right: 30px;
+background-color: transparent;
+border: none;
+color: rgb(0, 47, 255);
+cursor: pointer;
+}
+
+.vertical-menu{
+    display: none;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 30px ;
+
+}
+
+.vertical-menu a{
+color: white;
+text-decoration: none;
+
+}
+
+a:hover{
+    color: rgb(0, 47, 255);
+    background-color: black;
+    padding: 10px;
+    
+}
+
+li{
+    padding: 10px;
+}
